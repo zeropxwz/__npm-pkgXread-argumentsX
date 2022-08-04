@@ -1,0 +1,20 @@
+{
+  "name": "__npm-pkgxread-argumentsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./public/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeropxwz/__npm-pkgXread-argumentsX.git"
+  },
+  "keywords": [],
+  "author": "zerop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeropxwz/__npm-pkgXread-argumentsX/issues"
+  },
+  "homepage": "https://github.com/zeropxwz/__npm-pkgXread-argumentsX#readme"
+}
