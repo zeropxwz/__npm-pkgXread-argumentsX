@@ -1,5 +1,5 @@
 {
-  "name": "__npm-pkgxread-argumentsx",
+  "name": "read-arguments",
   "version": "1.0.0",
   "description": "",
   "main": "./public/index.js",
